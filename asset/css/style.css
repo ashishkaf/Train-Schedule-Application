@@ -1,0 +1,29 @@
+/*@media screen and (max-width: 640px){
+	container{
+		width: 100%;
+	}
+}*/
+
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color:rgb(119, 0, 255);
+	
+    color:rgb(1, 19, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding-top: 1%;
+    padding-bottom: 2%;
+    background: url(https://media.giphy.com/media/l2GO0wuvS9pAsWxo0J/giphy.gif);
+    background-size: cover;
+    height: 100%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
+
+
+
+
